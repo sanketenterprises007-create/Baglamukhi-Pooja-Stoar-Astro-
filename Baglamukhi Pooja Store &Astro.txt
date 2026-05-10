@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>संकल्प बगलामुखी साहित्य - सिद्ध हळदी माळा व यंत्र</title>
+    <style>
+        body { font-family: Arial; margin: 0; background: #fffbea; }
+        .header { background: #FFD700; padding: 20px; text-align: center; border-bottom: 5px solid #FF8C00; }
+        .header h1 { margin: 0; color: #8B0000; font-size: 26px; }
+        .container { max-width: 900px; margin: auto; padding: 15px; }
+        .hero { background: white; padding: 25px; border-radius: 10px; text-align: center; margin: 20px 0; }
+        .product { border: 2px solid #FFD700; padding: 15px; margin: 15px 0; border-radius: 8px; background: white; }
+        .price { font-size: 22px; color: #006400; font-weight: bold; }
+        .btn { background: #25D366; color: white; padding: 12px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px; font-weight: bold; }
+        .footer { background: #8B0000; color: #FFD700; text-align: center; padding: 20px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚩 baglamukhi pooja store & Astro 🚩</h1>
+        <div>ज्योतिष पंडित द्वारे सिद्ध हळदी माळा व बगलामुखी यंत्र</div>
+        <div>खिर्डी बुद्रुक |ainpur road Est. 1998</div>
+    </div>
+    <div class="container">
+        <div class="hero">
+            <h2>🪔 ॐ ह्लीं बगलामुखि सर्वदुष्टानां वाचं मुखं पदं स्तम्भय 🪔</h2>
+            <p><b>BNYS डॉक्टर + ज्योतिष पंडित</b> यांच्या देखरेखीखाली <b>अभिमंत्रित</b> यंत्र व माळा</p>
+            <p>कोर्ट-केस, शत्रू पीडा, वाद-विवाद निवारणासाठी</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=जय माँ, मला बगलामुखी यंत्र हवे आहे" class="btn">WhatsApp वर ऑर्डर करा</a>
+        </div>
+        <h2 style="text-align:center; color:#8B0000;">📿 आमची सिद्ध उत्पादने 📿</h2>
+        <div class="product">
+            <h3>1. सिद्ध हळदी माळा 108 मणी - ₹351</h3>
+            <p>'ह्लीं' बीज मंत्राने 108 वेळा अभिमंत्रित. पूजन विधी PDF फ्री.</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=मला हळदी माळा हवी आहे" class="btn">आत्ताच मागवा</a>
+        </div>
+        <div class="product">
+            <h3>2. तांब्याचं बगलामुखी यंत्र फ्रेमसह - ₹551</h3>
+            <p>शुद्ध तांब्यावर कोरलेले यंत्र. घरात/ऑफिसमध्ये ठेवण्यासाठी.</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=मला तांब्याचं यंत्र हवे आहे" class="btn">आत्ताच मागवा</a>
+        </div>
+        <div class="product">
+            <h3>3. पायराइट शक्ती यंत्र - ₹1100</h3>
+            <p>शत्रू स्तंभन व आर्थिक वृद्धीसाठी अत्यंत प्रभावी.</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=मला पायराइट यंत्र हवे आहे" class="btn">आत्ताच मागवा</a>
+        </div>
+        <div class="product">
+            <h3>4. संपूर्ण बगलामुखी पूजन किट - ₹751</h3>
+            <p>माळ + यंत्र + पिवळी चुनरी + हळद + विधी पुस्तिका</p>
+            <a href="https://wa.me/91XXXXXXXXXX?text=मला पूजन किट हवे आहे" class="btn">आत्ताच मागवा</a>
+        </div>
+    </div>
+    <div class="footer">
+        <h3>📞 संपर्क: +91-XXXXXXXXXX</h3>
+        <p> बगलामुखी पूजा स्टोअर्स आणि जोतिष्य ऐनपूर रोड खिर्डी बुद्रुक, जि. जळगाव</p>
+        <p>© 2026 | जय माँ पीताम्बरा 🚩</p>
+    </div>
+</body>
+</html>
